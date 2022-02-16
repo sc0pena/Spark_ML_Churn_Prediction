@@ -9,11 +9,10 @@
 
 ## Installation<a name="installation"></a>
 
-Libraries used found in the Anaconda distribution of Python. This code works with Python version 3.
+Libraries used found in the Anaconda distribution of Python, Apache PySpark ML , Apache Spark SQL. This code works with Python version 3 Spark version 2.4.5.
 
 ## Project Overview<a name="overview"></a>
-Identify customer segments for a mail order company selling organic products in Germany using unsupervised machine learning. Predict individuals likely to become a new customer using unsupervised and supervised machine learning models. There are 4 data sets with anonymized demographic info provided by Arvato Financial Solutions: 
-- Germany population demographics with 366 features (891,211 individuals)
+Identify existing free and paying customers on a streaming music platform called 'Sparkify' (fictitious company, much like Spotify) who are most likely to churn. Data set based on a much smaller subset of entire platform:
 - Existing mail order customer demographics with 366 features (191,652 individuals)
 - Demographics for individuals targeted in a 2018 mail order campaign, including success/failure to onboard (42,982 individuals)
 - Demographics for individuals targeted in a 2018 mail order campaign, without the inclusion of success/failure to onboard (42,833 individuals)
