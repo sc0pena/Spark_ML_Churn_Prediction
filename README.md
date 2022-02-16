@@ -22,7 +22,7 @@ This is an assignment for the Udacity Data Scientist nano degree program.
 - N/A
 
 ## Results<a name="results"></a> 
-- A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/using-data-science-to-predict-and-increase-new-mail-order-customers-a8fb6d6e90fd
+- A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/using-spark-ml-to-predict-churn-on-a-streaming-music-platform-e22b6fc91b8e
 - CRISP-DM process flow, coding, and technical notation found within the Jupyter notebook
 
 ## Licensing, Authors, and Acknowledgements<a name="licensing"></a> 
