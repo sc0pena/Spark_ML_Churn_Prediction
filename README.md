@@ -19,7 +19,7 @@ Identify existing free and paying customers on a streaming music platform called
 This is an assignment for the Udacity Data Scientist nano degree program. 
 
 ## File Descriptions<a name="descriptions"></a> 
-- N/A
+- Sparkify.ipynb: Jupyter notebook with coding
 
 ## Results<a name="results"></a> 
 - A business explanation of the results can be found on Medium: https://medium.com/@scott.m.pena/using-spark-ml-to-predict-churn-on-a-streaming-music-platform-e22b6fc91b8e
